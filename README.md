@@ -9,14 +9,13 @@ Olá! Eu sou Leovigildo Loureiro João, desenvolvedor de software com paixão po
 
 ### Projetos Destacados
 
-- **[GScholl]:** [Pacote para gestão escolar onde a aplicação auxiliara na gestãp da escola em diferentes areas.]
+- **GScholl:** Pacote para gestão escolar onde a aplicação auxiliara na gestão da escola em diferentes areas. link : https://github.com/Leovigildo-Loureiro-Joao/GScholl.git
 
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Leovigildo-Loureiro-Joao&show_icons=true&theme=radical)
+!Estatísticas do GitHub (https://github-readme-stats.vercel.app/api?username=Leovigildo-Loureiro-Joao&show_icons=true&theme=radical)
 
 ### Contato
 
-- **Email:** [leovigildojoao902@gmail.com]
-
+- **Email:** leovigildojoao902@gmail.com
