@@ -14,7 +14,7 @@ Olá! Eu sou Leovigildo Loureiro João, desenvolvedor de software com paixão po
 
 ### Estatísticas do GitHub
 
-!Estatísticas do GitHub (https://github-readme-stats.vercel.app/api?username=Leovigildo-Loureiro-Joao&show_icons=true&theme=radical)
+!Estatísticas do GitHub [(https://github-readme-stats.vercel.app/api?username=Leovigildo-Loureiro-Joao&show_icons=true&theme=radical)]
 
 ### Contato
 
