@@ -4,8 +4,8 @@ Olá! Eu sou Leovigildo Loureiro João, desenvolvedor de software com paixão po
 
 ### Minhas Habilidades
 
-- **Linguagens de Programação:** JavaScript, Java, PHP, C#
-- **Frameworks e Ferramentas:** React, JavaFx, SpringBoot
+- **Linguagens de Programação:** JavaScript, Java, PHP, C#, Dart
+- **Frameworks e Ferramentas:** React, JavaFx, SpringBoot, Flutter
 
 ### Projetos Destacados
 
