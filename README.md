@@ -20,3 +20,4 @@ Olá! Eu sou Leovigildo Loureiro João, desenvolvedor de software com paixão po
 
 - **Email:** leovigildojoao902@gmail.com
 - **Facebook:** https://www.facebook.com/profile.php?id=61560023893618
+- **Linkedin:**https://www.linkedin.com/in/leovigildo-jo%C3%A3o-93203132b/
