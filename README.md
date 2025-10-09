@@ -48,13 +48,6 @@ sdfs dfsd sdf sdfsd df
 
 </div>
 
----
-
-## 🐍 Snake Game Contribution Graph
-
-![Snake animation](https://github.com/Leovigildo-Loureiro-Joao/Leovigildo-Loureiro-Joao/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📞 Contatos
 
