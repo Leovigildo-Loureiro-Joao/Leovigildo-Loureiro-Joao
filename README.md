@@ -25,10 +25,10 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras. Co
 
 ## 💼 Projetos Destacados
 
-### 🏫 GSchool
-Pacote completo para gestão escolar, auxiliando instituições de ensino em diferentes áreas administrativas e acadêmicas.
+### Portifolio
+sdfs dfsd sdf sdfsd df
 
-🔗 **Repositório:** [GSchool no GitHub](https://github.com/Leovigildo-Loureiro-Joao/GScholl.git)
+🔗 **Repositório:** [Portigolio Master no GitHub](https://github.com/Leovigildo-Loureiro-Joao/PortifolioMaster.git)
 
 ---
 
