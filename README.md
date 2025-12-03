@@ -35,11 +35,8 @@ Portifolio
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leovigildo-Loureiro-Joao&show_icons=true&count_private=true&hide_border=true&title_color=dee5ea&icon_color=1F85DE&text_color=dee5ea&bg_color=0d1117" alt="Estatísticas do Leovigildo"/>
-  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leovigildo-Loureiro-Joao&layout=compact&hide_border=true&title_color=dee5ea&text_color=dee5ea&bg_color=0d1117" alt="Linguagens mais usadas"/>
-  
 </div>
 
 <div align="center">
