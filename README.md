@@ -20,7 +20,7 @@
 Sou um desenvolvedor full-stack comprometido em criar soluções eficientes, limpas e inovadoras.  
 Trabalho com foco em **qualidade**, **escalabilidade** e **performance**, sempre buscando evoluir tecnicamente e criativamente.
 
-Atualmente, contribuo para o **GSchool**, um sistema robusto de gestão escolar, enquanto aprofundo conhecimentos em tecnologias modernas e arquitetura de projetos.
+Atualmente, contribuo para o **eduGestor**, um sistema robusto de gestão escolar, enquanto aprofundo conhecimentos em tecnologias modernas e arquitetura de projetos.
 
 ---
 
@@ -99,10 +99,10 @@ Atualmente, contribuo para o **GSchool**, um sistema robusto de gestão escolar,
 
 ## 💼 Projetos Destacados
 
-### 🎓 **GSchool — Gestão Escolar Completa**
+### 🎓 **eduGestor — Gestão Escolar**
 Sistema profissional para administração escolar, cobrindo módulos pedagógicos, financeiros e administrativos.
 
-🔗 *Repositório:* **GSchool no GitHub**
+🔗 *Repositório:* **eduGestor no GitHub**
 
 ---
 
